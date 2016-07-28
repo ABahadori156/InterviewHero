@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  PlayMadLibsVC.m
 //  MadLibs2
 //
 //  Created by Pasha Bahadori on 7/25/16.
 //  Copyright © 2016 Pelican. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "PlayMadLibsVC.h"
 
-@interface ViewController : UIViewController
-
+@implementation PlayMadLibsVC
 
 @end
-
